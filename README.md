@@ -29,3 +29,8 @@ Created as a group project with:
 - [Rabe Datta](https://github.com/RabeDatta)
 
 What started as a Pictionary multiplayer game turned into a real time code sharing service. Created as a Hackathon project for Major League Hacking, this program allows users to choose a username, chat to one another, write code in a text field which is updated real time to let others see it as well. Also has a hand drawn jukebox which plays music when clicked on. Multiple users can write code and share the text field. Created using React hooks, socket.io, javascript, html, and deployed with Heroku.
+
+### YickWalk
+*A java top down game built from the ground up which features a moving robot character in a train station*
+
+A work in progress prototype which shows the usage of many imports such as buffered image, audio input streams, javax swing, threading, graphics, key listeners and more. At the moment does not have a direction but it's more of a framework of what can be as a learning experience. Has all original art.
