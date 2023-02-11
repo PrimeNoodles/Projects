@@ -44,7 +44,7 @@
     ]
   },
   "devDependencies": {
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.20",
     "react-app-rewire-alias": "^0.1.6",
     "react-app-rewired": "^2.1.6"
   }
